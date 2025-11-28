@@ -12,7 +12,7 @@ public class Produto {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
-    private Double preco;git init 
+    private Double preco;
 
     public Produto() { }
 
